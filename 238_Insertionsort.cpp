@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+using namespace std;
 
-int main()
-
+int arr[40];
+int n;
