@@ -29,3 +29,7 @@ void input() {
 	}
 
 }
+
+void insertionSort() {
+
+}
